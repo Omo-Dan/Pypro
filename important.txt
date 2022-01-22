@@ -1,0 +1,3 @@
+Interview/Exam questions in python
+1. String methods
+2. Operators precedence

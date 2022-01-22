@@ -1,0 +1,19 @@
+if it's hot
+      It's a hot day
+      Drink plenty of water
+Otherwise if it's cold day
+      It's  a cold day
+      Wear warm clothes
+Otherwise 
+      It's a lovely day
+
+is_hot = True
+if is_hot:
+    print("It's a hot day ")
+    print('Enjoy your day')
+
+is_hot = False
+if is_hot:
+    print("It's a hot day ")
+    print('Enjoy your day')
+

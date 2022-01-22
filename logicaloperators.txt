@@ -1,0 +1,4 @@
+AND-logic operator
+They are used where we have multiple conditions
+e.g. if loan applicants has high income and good credit, 
+then they are eligible for loans
